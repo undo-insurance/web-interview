@@ -1,12 +1,17 @@
-# Hacking session
+# Web interview
 
-The task is to create an input component for residents of a household: Spouse, roommates, and children.
+## Questions
 
-- [ ] Create a file structure that you think makes sense
-- [ ] Implement functionality to enter the information
-- [ ] Add some styling
-- [ ] Add some animation
+- What are you studying and what are you working on right now?
+- What is overall programming experience?
+- What is your experience with JavaScript?
+  - React
+  - Other frameworks/libraries?
+- What is your experience with REST / GraphQL
+- Are there any new technologies you are excited about?
+- Future goals? What do you want to do after your studies?
 
-We are not looking for a finished and polished product, but just to see how you work and to hear your reasoning about your choices.
 
-![Residents Input Demo](residents-demo.gif)
+## Coding session
+
+Do the things
